@@ -26,7 +26,6 @@ header, .container{
     padding-top: 20px;
     padding-bottom: 20px;
      border-radius: 2%;
-
 }
 
 .button{
@@ -58,6 +57,18 @@ header, .container{
 
 ul{
     list-style: none;
+}
+
+.check{
+    color: green;
+    border-color: green;
+    border-radius: 50%;
+}
+
+.not{
+    color: red;
+    border-color: red;
+    border-radius: 50%;
 }
 
 .purple{
